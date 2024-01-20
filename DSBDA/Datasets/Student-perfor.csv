@@ -1,0 +1,123 @@
+Timestamp,Email Address,Name of student,"Roll Number (e.g. A101, B202)",Division,Age,Gender ,Study time in hrs,FE pointer(e.g. 7.9),SE pointer(e.g. 7.9),number of subject failed in,current backlogs,Additional courses opted,number of paper published, intership opted,10th marks in percentage,12th marks in percentage,10th and 12th university/board
+1/18/2022 14:34:30,nikita.khairnar19@pccoepune.org,Nikita Vijay Khairnar,B213,B,20,F,3,9.2,9.95,0,0,,,YES,93.6,82.31,STATE
+1/18/2022 14:34:31,krishnankit.dixit19@pccoepune.org,Krishnankit Dixit,TECOA143,A,21,M,5,9.36,9.41,0,0,"Web development, Python, Data structures and algorithms",0,YES,89,83,STATE
+1/18/2022 14:34:38,karthi.dhanasekaran19@pccoepune.org,Karthi Dhanasekaran,B275,B,21,M,2,8.45,9.45,0,0,AI/ML,1,YES,82.8,84.6,CBSE
+1/18/2022 14:34:44,shreyash.patil19@pccoepune.org,Shreyash patil,B264,B,21,M,0.7,8.5,9.2,0,0,"Python, c, c++",1,NO,89,79,STATE
+1/18/2022 14:34:54,hitesh.kotecha19@pccoepune.org,Hitesh Kotecha,B220,B,20,M,4,8.4,8.7,0,0,0,0,YES,88,74,STATE
+1/18/2022 14:35:04,abhishek.bodkhe19@pccoepune.org,Abhishek Bodkhe,A102 ,A,21,M,9 hrs ,8.34,9.61,0,0,Cyber security,1,NO,89%,87%,CBSE
+1/18/2022 14:35:09,ninad.hastak19@pccoepune.org,Ninad Hastak,TECOB253,B,21,M,3,7,9.5,0,0,"basics of html css js, AWS, Git/Github",0,NO,85,70,CBSE
+1/18/2022 14:35:17,anjali.kolekar20@pccoepune.org,Anjali Kolekar,B281,B,19,F,5,,9.86,0,0,,1,YES,94.8,,STATE
+1/18/2022 14:35:18,mrunali.pandav19@pccoepune.org,Mrunali Pandav,B259,B,20,F,4,9,9.82,0,0,"Introduction to Programmingr in python, java programming,c++ tutorial, web development bootcamp.",0,NO,97.4,80.66,STATE
+1/18/2022 14:35:23,omkar.bansode19@pccoepune.org,Omkar Bansode,A113,A,21,M,4,7.66,9.5,0,0,"Python for Everybody,IIT Spoken Tutorial :C,C++,C++ Advanced",1,NO,95.2,72,STATE
+1/18/2022 14:35:24,mrunali.padwal19@pccoepune.org,Mrunali Arun Padwal,B256,B,20,F,2,9.16,9.75,0,0,Honors course in AI ML,1,NO,93.8,85.69,STATE
+1/18/2022 14:35:25,harsh.baheti19@pccoepune.org,Baheti Harsh Balaprasad,A112,A,21,M,4,8.89,9.52,0,0,4,2,YES,86.7,95.4,STATE
+1/18/2022 14:35:26,varad.chitnis19@pccoepune.org,Varad Chitnis,A128,A,20,M,5,8.5,9.6,0,0,"puthon , c++ , java ",0,NO,98,80,STATE
+1/18/2022 14:35:27,aditya.deo19@pccoepune.org,Aditya Hemant Deo,A136,A,19,M,5,9.1,9.9,0,0,"ReactJS, Web Development",0,YES,97.2,80,STATE
+1/18/2022 14:35:29,dev.juneja20@pccoepune.org,Dev Juneja,B277,B,20,M,2,,9.75,0,0,Honors in AI/ML,1,NO,89.80%,,STATE
+1/18/2022 14:35:31,shriraj.chinchwade19@pccoepune.org,Shriraj Gajanan Chinchwade,A127,A,20,M,6,8.7,9.64,0,0,"Python, c++, java, html, css, ML",1,YES,89,77,STATE
+1/18/2022 14:35:34,keyur.kolambe19@pccoepune.org,Keyur Chetan Kolambe ,B219,B,20,F,2,9.18,9.95,0,0,Data Science Honors,1,YES,99.8,74 64,STATE
+1/18/2022 14:35:36,atharv.joshi19@pccoepune.org,Atharv Anil Joshi,B202,B,20,M,1,9.02,9.73,0,0,0,0,YES,96,86,STATE
+1/18/2022 14:35:37,sanskruti.bhole19@pccoepune.org,Sanskruti Sharad Bhole,A117,A,20,F,2,7.9,9.5,Na,Na,Data Science Honors,0,YES,80.04,79.06,STATE
+1/18/2022 14:35:45,aditya.nikam19@pccoepune.org,Aditya Sunil Nikam,B251,B,20,M,4,6.8,7.8,5,None,"Python , machine learning ",1,NO,84,61,STATE
+1/18/2022 14:35:52,suraj.dhamak19@pccoepune.org,Suraj Dhamak,A140,A,21,M,3,7.5,9.6,0,0,Cyber Security,0,YES,86,70,STATE
+1/18/2022 14:35:54,neel.acharya19@pccoepune.org,Neel Acharya,A103,A,20,M,4,8.2,9.6,0,0,2,1,NO,96.4,74.1,STATE
+1/18/2022 14:35:54,yadneya.joshi19@pccoepune.org,Yadneya Joshi,B207,B,21,M,3,8.4,9.8,0,0,0,0,YES,90.6,80,STATE
+1/18/2022 14:35:54,prasad.gaikwad19@pccoepune.org,Prasad Rajesh Gaikwad,A152,A,20,M,3,7.98,9.48,0,0,,,NO,93.40%,79.20%,STATE
+1/18/2022 14:36:04,kirti.dhadwad18@pccoepune.org,Kirti Shankar Dhadwad ,B271,B,20,F,6 to 7 hrs,8.15,8.25,None,None,None,1,YES,86.4,57.38,STATE
+1/18/2022 14:36:06,tanvi.mehta19@pccoepune.org,Tanvi Hemant Mehta,TECOB234,B,20,F,5,8.61,9.66,0,0,"Python, C++, Machine Learning",1,YES,88,83,STATE
+1/18/2022 14:36:06,ajay.pawar19@pccoepune.org,Ajay Ganesh Pawar,B268,B,20,M,3-4,8.82,9.59,0,0,"Python , Java , C++ , HTML , CSS , Bootstrap",1,NO,95,80.46,STATE
+1/18/2022 14:36:08,rohit.more19@pccoepune.org,Rohit Mahadev More,TECOB237,B,20,M,3,8.8,9.65,0,0,Python for Data Science,0,NO,91.8,78.77,STATE
+1/18/2022 14:36:08,jyoti.tapkir20@pccoepune.org,Jyoti Sunil Tapkir,B283,B,21,F,3-4,,9.59,0,0,AI,2,YES,79.4,95.26,STATE
+1/18/2022 14:36:15,bhargav.deore19@pccoepune.org,Bhargav Rajendra Deore,TECOA137,A,20,M,,7.5,9.1,0,0,,,,85,63,STATE
+1/18/2022 14:36:18,vaibhav.dalgade19@pccoepune.org,Vaibhav Sadanand Dalgade,131,A,20,M,2,7.2,9.3,3,0,yes,not yet,YES,74,69,STATE
+1/18/2022 14:36:23,sainath.pattewar19@pccoepune.org,Sainath Nandkumar Pattewar,B266,B,21,M,4,8.61,9.34,0,0,"c,c++,python,HTML,CSS,Javascript,sql",1,YES,85,82,STATE
+1/18/2022 14:36:30,srushti.patil19@pccoepune.org,Srushti Suresh Patil ,TECOB265,B,20,F,5,9.1,9.9,0,0,Web and ML related,2,YES,100%,86.50%,STATE
+1/18/2022 14:36:32,ruturaj.patil19@pccoepune.org,Ruturaj Patil,B263,B,19,M,4,7.48,8.6,1,0,Na,1,YES,89.9,59.6,CBSE
+1/18/2022 14:36:39,akanksha.mane19@pccoepune.org,Akanksha Dattatray Mane,B230,B,21,F,5,7,8.2,0,0,No,1,NO,89.8,65.8,STATE
+1/18/2022 14:36:41,aatif.shaikh18@pccoepune.org,Aatif Sanaullah Shaikh,A171,A,21,M,2hrs,7.05,8.27,0,0,No,0,YES,65%,66%,STATE
+1/18/2022 14:36:43,sahil.adrakatti19@pccoepune.org,Sahil Adrakatti,A106,A,21,M,,7.3,8.68,0,0,Cloud Computing,0,YES,77.6,74.6,CBSE
+1/18/2022 14:36:44,purnima.chandan20@pccoepune.org,Purnima Satish Chandan,A177,A,20,F,4,,9.36,0,0,,0,YES,93.2,92.5,STATE
+1/18/2022 14:36:45,shruti.mankar19@pccoepune.org,Shruti Lokesh Mankar,B231,B,20,F,8,7.5,9.2,0,0,"Python in Game Development, Web Development",0,NO,86,78.69,STATE
+1/18/2022 14:36:45,umesh.chaudhari20@pccoepune.org,Umesh Prakash Chaudhari,B282,B,21,M,3,,9.32,,,"JavaScript, PHP",1,YES,78.6,94.44,STATE
+1/18/2022 14:36:56,omkar.kalbhor21@pccoepune.org,Om Balu kalbhor ,A183,A,21,M,2 Hours ,0,7.96,0,0,Python ,1,NO,71,0,STATE
+1/18/2022 14:36:56,shlok.gangatirkar19@pccoepune.org,Shlok Gangatirkar,A153,A,20,M,10,8.5,9.86,0,0,web development,1,YES,92,79,STATE
+1/18/2022 14:36:56,govind.mudavadkar19@pccoepune.org,Govind Rajesh Mudavadkar,TECOB241,B,20,M,6,8.9,9.55,0,0,0,0,YES,98,75,STATE
+1/18/2022 14:36:59,shivam.khandelwal19@pccoepune.org,Shivam Khandelwal,B215,B,21,M,10,8.7,9.5,1,0,0,0,NO,94,90,STATE
+1/18/2022 14:37:12,tejas.borde19@pccoepune.org,Tejas Borde,A122,A,20,M,4,9.8,9.98,0,0,"React,Node,MongoDB,MySql,Python,C++",NA,YES,96.4,91.38,STATE
+1/18/2022 14:37:13,yash.bhople19@pccoepune.org,Yash Avinash Bhople,A118,A,20,M,4,8.5,9.57,0,0,Cyber security,1,YES,95,87.85,STATE
+1/18/2022 14:37:16,adesh.pawar19@pccoepune.org,Adesh Pawar,B267,B,20,M,2,9.39,10,0,0,"Python. c++, Java, Web Development",1,NO,96.6,88.92,STATE
+1/18/2022 14:37:17,anvita.jadhav19@pccoepune.org,Anvita Jadhav,A109,A,20,F,5,7.44,9.59,0,0,"Python, C++, Data Science",0,YES,94,75,CBSE
+1/18/2022 14:37:18,rohit.joshi19@pccoepune.org,Rohit Joshi,B206,B,20,M,10,7.9,9.4,0,0,Web Development,0,YES,93,70,STATE
+1/18/2022 14:37:21,ashish.pawar19@pccoepune.org,Ashish Pawar,B269,B,20,M,4,9.2,9.93,0,0,"Python,Java,C++,HTML,CSS",1,NO,97,88.6,STATE
+1/18/2022 14:37:21,sushank.dehankar19@pccoepune.org,Sushank Dehankar,A135,A,20,M,8,7.4,9.8,0,0,"Python beginners , python in-depth",1,YES,82.2,70,STATE
+1/18/2022 14:37:22,sarthak.nalawade19@pccoepune.org,Sarthak D. Nalawade,B246,B,20,M,2,6.6,9.2,0,0,Honours course,0,NO,91,71,STATE
+1/18/2022 14:37:25,nishi.bhuta19@pccoepune.org,Nishi Bhuta,A120,A,19,F,4,8.33,9.36,0,0,"Python , HTML , SQL",0,NO,87.8,84.46,STATE
+1/18/2022 14:37:33,omkar.gawari19@pccoepune.org,omkar gawari,A157,A,21,M,2,8.5,9.4,0,0,Python ,0,NO,86,70,STATE
+1/18/2022 14:37:36,sanket.chaudhari19@pccoepune.org,Sanket Chaudhari,TECOA123,A,20,M,4,9.32,9.91,0,0,"Python, C++, ReactJs, ExpressJs",1,YES,93,88.62,STATE
+1/18/2022 14:37:40,avadhoot.autade19@pccoepune.org,Avadhoot Prakash Autade,A110,A,20,M,6,8.82,9.7,0,0,"Python, C++, Web Development",1,YES,98.4,83.69,STATE
+1/18/2022 14:37:41,anand.jaju19@pccoepune.org,Anand Rajendra Jaju,A168,A,19,M,2,9.1,9.6,0,0,"Python, CPP, Alibaba cloud Associate, Google Cloud Ready Program",1,YES,89,80,STATE
+1/18/2022 14:37:42,vedant.nerkar19@pccoepune.org,Vedant Narendra Nerkar,B249,B,20,M,4,7.91,9.41,0,0,Data analyst google certification,1,YES,85,70,STATE
+1/18/2022 14:37:44,avishkar.gawade19@pccoepune.org,Gawade Avishkar Vijay,A155,A,20,M,4,7.5,9.5,0,0,"C++, Python,Java",1,NO,94,80,STATE
+1/18/2022 14:37:47,rakesh.minase19@pccoepune.org,Rakesh Minase,TECOB236,B,21,M,2,9.36,9.73,0,0,"JAVA, C++",0,YES,94.6,83.69,STATE
+1/18/2022 14:37:48,mridul.handoo19@pccoepune.org,Mridul Prince Handoo,B240,B,20,M,2.5,8.84,9.25,0,0,"Python, C, C++",0,NO,95,88.88,CBSE
+1/18/2022 14:37:52,mohit.nathwani19@pccoepune.org,Mohit Nathwani,TECOB248,B,21,M,4,8.5,8.8,0,0,1,1,NO,91.6,82.92,STATE
+1/18/2022 14:37:59,abhishek.deshmukh19@pccoepune.org,Abhishek Deshmukh,A138,A,21,M,4-5,7.18,9.32,0,0,"python, c++",0,NO,77.8,73.85,STATE
+1/18/2022 14:38:03,avishkar.hongekar19@pccoepune.org,Avishkar Arjun Hongekar,A164,A,20,M,2,9.41,9.68,0,0,"Python, Cpp",1,NO,96,88.77,STATE
+1/18/2022 14:38:11,abhimanyu.babarpatil19@pccoepune.org,Abhimanyu Arjun BabarPatil ,A111,A,21,M,5,7.41,9.25,0,0,Web Development ,1,NO,85.4,80.6,STATE
+1/18/2022 14:38:12,ketan.bhambure19@pccoepune.org,Ketan Sunil Bhambure,A115,A,20,M,2,8.05,9.16,0,0,"Python,Web development",1,NO,83.6,77.69,STATE
+1/18/2022 14:38:13,soham.kulkarni19@pccoepune.org,Soham Kulkarni,B221,B,20,M,2,8.6,9.68,0,0,0,0,NO,94,75,CBSE
+1/18/2022 14:38:16,kshitija.gir19@pccoepune.org,Kshitija Madhav Gir,A160,A,19,F,5,8.27,8.61,0,0,"C++, python, html, css",0,YES,95%,79.54%,STATE
+1/18/2022 14:38:17,akshay.shinde19@pccoepune.org,Akshay Shinde,A107,A,20,M,4,8.02,9.82,0,0,"blockchain, calculus",1,YES,92,84,CBSE
+1/18/2022 14:38:25,frasier.anthony19@pccoepune.org,Frasier Anthony,A108,A,20,M,8,6.57,9.4,0,0,NA,1,NO,86,79,STATE
+1/18/2022 14:38:29,jessica.fernandes19@pccoepune.org,Jessica Fernandes,A148,A,20,F,,8.39,9.32,0,0,,2,NO,89.2,80.92,STATE
+1/18/2022 14:38:31,sudarshan.darekar19@pccoepune.org,Sudarshan Darekar,A133,A,20,M,1,9,9.77,0,0,"C, python",2,YES,94.8,84.61,STATE
+1/18/2022 14:38:37,sahil.kachole19@pccoepune.org,Sahil Vinayak Kachole,B208,B,20,M,5,8.15,9.57,0,0,0,1,NO,89.4,82.15,STATE
+1/18/2022 14:38:44,rushikesh.ghuge18@pccoepune.org,RUSHIKESH GHUGE ,TECOB272,B,21,M,5 hrs,7.9,9.48,0,0,"C, C++,python and python for data science. ",2,NO,87.4,77,STATE
+1/18/2022 14:38:51,bhagwat.palve19@pccoepune.org,Bhagwat Karbhari Palve,B258,B,20,M,2,8.2,9.8,0,0,"Python for everybody, Python Data Structure",0,NO,90,71,STATE
+1/18/2022 14:38:55,onkar.dhengale19@pccoepune.org,Onkar Dhengale,A141,A,20,M,4,7.7,9.45,0,0,"C++, Java",0,NO,94,66,STATE
+1/18/2022 14:39:00,aniket.mhalungekar19@pccoepune.org,Aniket Ananda Mhalungekar,B235,B,21,M,3,9.44,9.91,0,0,"Python, C++, C, web development, SQL",1,YES,94.8,78.43,STATE
+1/18/2022 14:39:06,rahul.jadhav20@pccoepune.org,Rahul Jadhav,B276,B,22,M,3,,9.5,0,0,"Iot , Machine Learning .",1,YES,79.8,94.46,STATE
+1/18/2022 14:39:08,snehal.funde19@pccoepune.org,Snehal Shivaji Funde,A149,A,20,F,5,8.25,9.68,0,0,"Python, C++, Web Development",1,NO,95.2,74.77,STATE
+1/18/2022 14:39:18,raj.kumawat19@pccoepune.org,Raj Somnath Kumawat,TECOB223,B,20,M,8,7.64,9.16,0,0,Python Basics,0,YES,94,68.92,STATE
+1/18/2022 14:39:22,kunal.dabhade19@pccoepune.org,Kunal Rajendra Dabhade,A130,A,20,M,5,7.05,9,0,0,"C++, Java, Python",0,NO,86.4,79.08,STATE
+1/18/2022 14:39:27,anuj.pandya19@pccoepune.org,Anuj Pandya,TECOB260,B,20,M,6,8.6,9.7,0,0,"Python, C++, Java",0,NO,94,70,STATE
+1/18/2022 14:39:27,tulsi.chopade19@pccoepune.org,Tulsi Chopade,A129,A,20,F,3,8.9,9.7,0,0,"Cpp fork, Python Programming, Machine learning in python, Web development, Software Engineering",0,NO,92,84,STATE
+1/18/2022 14:39:31,parikshit.gurule19@pccoepune.org,Parikshit Gurule,TECOA163,A,20,M,1 hr,7.11,9.45,0,0,1,0,NO,85.4,69.7,STATE
+1/18/2022 14:39:33,radha.kadam19@pccoepune.org,radha.kadam19@pccoepune.org,B209,B,20,F,5,7,9,0,0,"Ml,java, blockchain",1,NO,86,73,STATE
+1/18/2022 14:39:36,harsh.lad19@pccoepune.org,Harsh Lad,TECOB225 ,B,20,M,6,6.3,6.2,0,0,Data science ,0,YES,78,63,CBSE
+1/18/2022 14:39:37,sakshi.shinde201@pccoepune.org,Sakshi Bhausaheb Shinde ,A181,A,21,F,5,,9.57,0,0,"Java, web development, python",1,YES,87,95.03,STATE
+1/18/2022 14:39:38,kshitij.kolage19@pccoepune.org,Kshitij Bipin Kolage,B218,B,20,M,8,8.95,9.57,0,0,Cyber security honours,1,NO,90,74,STATE
+1/18/2022 14:39:38,om.dodmani19@pccoepune.org,Om Dodmani,A145,A,20,M,3.5,9,9.75,0,0,"Java , Cyber Security",0,YES,91,94.9,STATE
+1/18/2022 14:39:41,aditi.khuspe19@pccoepune.org,Aditi Avinash Khuspe,TECOB217,B,19,F,5-6,8.27,8.31,0,0,Full stack development,1,NO,92.4,76.62,STATE
+1/18/2022 14:39:44,pranjal.munot19@pccoepune.org,Pranjal Nitin Munot,B243,B,20,F,4,7.5,9.32,0,0,1,1,NO,92.2,76,STATE
+1/18/2022 14:39:49,janhavi.gadge19@pccoepune.org,Janhavi Sanjay Gadge,A150,A,20,F,5-6hrs,7.5,8.7,0,0,Java,1,NO,87,69,STATE
+1/18/2022 14:39:51,shrutika.ambre20@pccoepune.org,Shrutika Ambre,A174,A,20,F,2-3 hrs,,9.75,0,0,AI/ML honors ,0,YES,95%,96.23,CBSE
+1/18/2022 14:39:52,snehal.kullolli19@pccoepune.org,Snehal Kullolli,B222,B,21,F,5,8.07,9.45,NA,NA,"Python, Java",1,NO,92.8,79,STATE
+1/18/2022 14:39:52,nikita.magar19@pccoepune.org,Nikita Magar,B228,B,20,F,5 hrs,9.09,9.75,0,0,"JavaScript , Python , C++",1,NO,91.8,79.38,STATE
+1/18/2022 14:39:55,parth.gaikwad19@pccoepune.org,Parth Arun Gaikwad,A151,A,20,M,4,6.8,9.45,0,0,"Azure Cloud Services Coursera , HTML Workshop",,NO,82,69,CBSE
+1/18/2022 14:39:57,aditya.dhumal19@pccoepune.org,Aditya Prabhakar Dhumal,A142,A,20,M,2-3 hrs,9.27,9.43,0,0,Python,1,NO,95.8,88.62,STATE
+1/18/2022 14:40:03,kalyani.khandait19@pccoepune.org,Kalyani Jaywant Khandait,B214,B,21,F,4,8.84,9.7,0,NA,NA,1,YES,83.6,69.54,STATE
+1/18/2022 14:40:21,sharvi.ghogale19@pccoepune.org,Sharvi Ghogale,A159,A,19,F,,8.75,9.64,0,0,"C++,Java,Python",0,YES,89,75.08,STATE
+1/18/2022 14:40:23,prince.gangurde20@pccoepune.org,Prince Vinayak Gangurde,A179,A,21,M,3,,8.98,0,0,"Python,Data Science.",2,YES,89.4,73.14,CBSE
+1/18/2022 14:40:33,param.jangale19@pccoepune.org,Param Samir Jangale,A169,A,20,M,6-7,9.5,9.8,0,0,"SQL in data science(coursera), Reasoning in various domains(coursera), Android dev using Kotlin(Udemy), Game dev workshop by PICT, ",1,YES,94.5,79.2,ICSE
+1/18/2022 14:40:41,owais.mirza19@pccoepune.org,Owais Mirza,B255,B,20,M,3,6.8,8.68,0,0,1,1,YES,87,82,CBSE
+1/18/2022 14:40:45,akshay.joshi19@pccoepune.org,Akshay Avinash Joshi,B204,B,20,M,1,7.82,9.7,0,0,coursera-intro to data science with python,,NO,89.8,85,STATE
+1/18/2022 14:40:59,om.bonde19@pccoepune.org,Om Bonde,A121,A,20,M,7 hrs,7.59,8.82,0,0,0,0,NO,98,84.62,STATE
+1/18/2022 14:41:10,monika.dhokale20@pccoepune.org,Monika Ankush Dhokale,A178,A,20,F,7,,9.1,0,0,"PHP, java, OS",1,YES,82.8,93.63,STATE
+1/18/2022 14:41:33,dhruv.goel19@pccoepune.org,Dhruv Goel,A161,A,20,M,3hrs,7.61,8.91,None,None,"Honours course, python programming, Java,C++",One,YES,89.59,72.15,CBSE
+1/18/2022 14:41:34,rushikesh.naikwadi19@pccoepune.org,Rushikesh Naikwadi,B245,B,20,M,2,8.8,9.1,0,0,0,0,NO,94,88,STATE
+1/18/2022 14:41:38,tejas.jadhav19@pccoepune.org,Tejas Nitin Jadhav,A166,A,20,M,8,9.02,9.68,0,0,"Kaggle microcourses ( Data Science ), Internship Training on Data Science by STIGE Ltd.,",0,YES,94.2,80.6,STATE
+1/18/2022 14:41:43,vivek.khatri19@pccoepune.org,Vivek Khatri,B216,B,21,M,12,8.2,9.57,0,0,,,YES,94.4,71.53,STATE
+1/18/2022 14:42:06,aaishwarya.gaikwad19@pccoepune.org,Aaishwarya Ashish Gaikwad,A101,A,20,F,9,7.5,8.2,0,0,"Python, C++, AI, ML",0,YES,86,73,ICSE
+1/18/2022 14:42:10,niraj.garudkar19@pccoepune.org,Niraj Vijay Garudkar,TECOA154,A,21,M,8,7.9,9.41,0,0,0,0,YES,94.2,71,STATE
+1/18/2022 14:42:37,chaitanya.jasud19@pccoepune.org,Chaitanya jasud,B201,B,21,M,5-6,8.3,9.48,0,0,"Python,java",1,NO,83.6,72.77,STATE
+1/18/2022 14:43:49,kunal.mote19@pccoepune.org,Kunal Mote ,B239,B,20,M,,6.3,9.2,0,0,Machine learning ,1,YES,87,60,STATE
+1/18/2022 14:43:56,shamik.ghadge19@pccoepune.org,Shamik Ghadge,TECOA158,A,20,M,6,8.4,9.8,0,0,AI ML,0,YES,90,83,STATE
+1/18/2022 14:44:02,shriya.chakradeo18@pccoepune.org,Shriya Chakradeo,A173,A,21,F,2,7.8,7.8,-,-,-,-,NO,88,72,STATE
+1/18/2022 14:44:22,mashwin.kumar18@pccoepune.org,M Ashwin,B273,B,21,M,2,7.2,8.9,7,0,,1,YES,82,60,CBSE
+1/18/2022 14:44:38,samvedya.jedhedeshmukh19@pccoepune.org,Samvedya Jedhedeshmukh,B203,B,20,M,6,8.05,9.7,0,0,0,1,NO,92.5,71.6,ICSE
+1/18/2022 14:44:58,apoorva.datir19@pccoepune.org,Apoorva Datir,TECOA134,A,19,F,6,8.7,9.7,0,0,5,0,YES,98,89,STATE
+1/18/2022 14:45:58,sangram.more19@pccoepune.org,Sangram More,B238,B,20,M,1,7.89,9.59,0,0,0,0,NO,81,80.31,CBSE
+1/18/2022 14:48:11,palak.gupta19@pccoepune.org,Palak Gupta,TECOA162,A,20,F,3,9.82,9.95,0,0,,,YES,98.2,87.23,STATE
+1/18/2022 14:52:34,vedant.chaudhari19@pccoepune.org,Vedant Chaudhari,A124,A,20,M,,8.5,9.8,,,1,,YES,96,86,CBSE
+1/18/2022 15:09:04,prajwal.bhargade19@pccoepune.org,Prajwal Ganesh Bhargade,A116,A,21,M,7,6.4,9.25,1,0,no,no,NO,85,67,STATE
