@@ -1,4 +1,3 @@
-**README.md**
 # DataScience Practice & Projects
 
 ## Overview
