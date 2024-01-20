@@ -26,7 +26,7 @@ Our project is dependent on MONGODB Cloud Atlas. It is used to store blockchain 
 2.The Collaboration System
 ![image](https://github.com/Keyurkolambe/BlockFund/assets/66724435/65fb8c49-7210-43f6-99a6-6e61b5510e67)
 
-##### Project Significance
+
 **README.md**
 
 # Decentralized Crowdfunding Platform with Smart Contracts
@@ -51,7 +51,7 @@ To run and interact with our platform, ensure you have the following software co
 - **Mocha**: A JavaScript test framework used for testing our smart contracts.
 - **Gpay API**: Integrated for handling transactions, with only transaction details stored in smart contracts.
 
-#### Project Significance
+### Project Significance
 
 This repository encapsulates the culmination of our final year project, where I took charge of managing backend databases and grappled with significant data volumes.Recognizing cryptocurrency volatility, we incorporated gPay into the platform, storing only transaction details in 
 smart contracts. This experience immersed me in data management intricacies, sparking a deeper interest in data science. 
