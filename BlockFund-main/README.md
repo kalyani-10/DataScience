@@ -27,7 +27,7 @@ Our project is dependent on MONGODB Cloud Atlas. It is used to store blockchain 
 ![image](https://github.com/Keyurkolambe/BlockFund/assets/66724435/65fb8c49-7210-43f6-99a6-6e61b5510e67)
 
 
-**README.md**
+
 
 # Decentralized Crowdfunding Platform with Smart Contracts
 
